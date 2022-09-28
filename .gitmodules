@@ -1,0 +1,3 @@
+[submodule "BackEnd/BackEnd/userManagement"]
+	path = BackEnd/BackEnd/userManagement
+	url = https://github.com/bhattaman0001/user_manager_v1_BackEnd
